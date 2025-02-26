@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updated feature detail
+=======
+Feature update branch
+>>>>>>> newbranch
