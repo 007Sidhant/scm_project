@@ -1,1 +1,5 @@
 Making new file for scm project
+This project is focused on implementing new features to improve functionality>>project_overview.txt
+
+echo This project is focused on implementing new features to improve functionality
+This project is focused on implementing new features to improve functionality
